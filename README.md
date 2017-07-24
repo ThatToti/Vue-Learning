@@ -1,6 +1,12 @@
 # Vue-Learning
 
-a documentation records for my learning in vue2
+这是一篇我在学习Vue2上的一些心路历程，会分享一些我觉得值得讲的地方，有基础也有深入。
 
-Okay,i will constantly publish some new articles when i am studying vue2,I hope my abstract can impressive you and help you.
+这个系列不会简单地讲解基础知识，我只会分享一些我踩过坑的地方，适合大家一起来探讨。
+
+
+
+
+
+
 
